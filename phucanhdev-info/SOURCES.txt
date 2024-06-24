@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+phucanhdev/__init__.py
+phucanhdev-info/PKG-INFO
+phucanhdev-info/SOURCES.txt
+phucanhdev-info/dependency_links.txt
+phucanhdev-info/top_level.txt
