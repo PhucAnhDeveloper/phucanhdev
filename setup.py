@@ -7,7 +7,7 @@ setup(
     version='0.0.1',
     license='Eclipse Public License 0.0.1',
     authors=["phucanhdev"],
-    author_email="<quangminh591@gmail.com>",
+    author_email="<phucanhdepzai2009@icloud.com>",
     description="python Module By PhucAnhDev",
     keywords=['cli', 'fade', 'colors', 'terminal', 'tui'],
     packages=['PhucAnhDev']
