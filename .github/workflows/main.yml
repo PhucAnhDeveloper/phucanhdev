@@ -1,1 +1,35 @@
-python3 main.py
+{
+  "typ": "JWT",
+  "alg": "RS256",
+  "x5t": "example-thumbprint",
+  "kid": "example-key-id"
+}
+{
+  "jti": "example-id",
+  "sub": "repo:octo-org/octo-repo:environment:prod",
+  "environment": "prod",
+  "aud": "https://github.com/octo-org",
+  "ref": "refs/heads/main",
+  "sha": "example-sha",
+  "repository": "PhucAnhDeveloper/phucanhdev",
+  "repository_owner": "PhucAnhDeveloper",
+  "actor_id": "12",
+  "repository_visibility": "puublic,
+  "repository_id": "1",
+  "repository_owner_id": "65",
+  "run_id": "example-run-id",
+  "run_number": "10",
+  "run_attempt": "2",
+  "runner_environment": "github-hosted"
+  "actor": "octocat",
+  "workflow": "example-workflow",
+  "head_ref": "",
+  "base_ref": "",
+  "event_name": "workflow_dispatch",
+  "ref_type": "branch",
+  "job_workflow_ref": "phucanhdev/phucanhdev-automation/.github/workflows/main.yml@refs/heads/main",
+  "iss": "https://token.actions.githubusercontent.com",
+  "nbf": 1632492967,
+  "exp": 1632493867,
+  "iat": 1632493567
+}
